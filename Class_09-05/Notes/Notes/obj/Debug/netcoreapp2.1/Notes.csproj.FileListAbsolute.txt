@@ -1,0 +1,11 @@
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.deps.json
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.runtimeconfig.json
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.runtimeconfig.dev.json
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.dll
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\bin\Debug\netcoreapp2.1\Notes.pdb
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.csprojAssemblyReference.cache
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.csproj.CoreCompileInputs.cache
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.AssemblyInfoInputs.cache
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.AssemblyInfo.cs
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.dll
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Class_09-05\Notes\Notes\obj\Debug\netcoreapp2.1\Notes.pdb
