@@ -1,0 +1,11 @@
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.deps.json
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.runtimeconfig.json
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.runtimeconfig.dev.json
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.dll
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\bin\Debug\netcoreapp2.1\Lab2.pdb
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.csprojAssemblyReference.cache
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.AssemblyInfoInputs.cache
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.AssemblyInfo.cs
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.dll
+C:\Users\lawle\Documents\Fall 2019\Game-Engines\Week 2\Lab2\Lab2\obj\Debug\netcoreapp2.1\Lab2.pdb
